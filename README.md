@@ -1,2 +1,1 @@
 # iplocator
-IP-Locator.pl
